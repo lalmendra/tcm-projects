@@ -1,5 +1,3 @@
-# TIAGO, COLOQUE SEU NÚMERO DE ALUNO E SEU NOME AQUI
-
 # Variaveis globais
 clientes = []
 id_reparacao = 0
